@@ -1,20 +1,14 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
 
-# Run and deploy your AI Studio app
+Lunatic Budget is an app built with Vibe Coding to finally deliver the budgeting experience I always wanted.
+Developed with Google AI Studio.
 
-This contains everything you need to run your app locally.
+What can Lunatic Budget do?Daily Budgeting — It splits your monthly income across all days of the month, so you always know how much you can safely spend without going negative.
 
-View your app in AI Studio: https://ai.studio/apps/34e0819f-99e8-4c79-8524-1de4187a262c
+Fixed Expense Management — Add your recurring monthly costs like bills, rent, and installments. Everything is automatically balanced and distributed.Clean Interface — A simple, distraction‑free layout that keeps everything under control at a glance.
 
-## Run Locally
+Privacy‑First Design — No AI intervention, fully open‑source, and with local file‑based backups only.
 
-**Prerequisites:**  Node.js
+No Tracking — Your data stays on your device. Always.
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Why Lunatic Budget?
+Because it’s a budgeting app that respects your privacy, gives you clarity, and helps you save money without stress.
