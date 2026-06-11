@@ -1,0 +1,6 @@
+{
+  "appId": "com.lunaticbudget.app",
+  "appName": "LunaticBudget",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
